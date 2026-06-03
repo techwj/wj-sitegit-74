@@ -1,0 +1,59 @@
+{
+  "siteId": "budget-travel-rich-experience",
+  "generatedAt": "2026-06-02T19:22:11.659042",
+  "categories": [
+    "beginner-budget-travel-rich-experience",
+    "advanced-budget-travel-rich-experience",
+    "tips-budget-travel-rich-experience",
+    "history-budget-travel-rich-experience",
+    "trending-budget-travel-rich-experience",
+    "tutorials-budget-travel-rich-experience"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-budget-travel-rich-experience",
+      "category_name": "Beginner Budget Travel Rich Experience"
+    },
+    {
+      "category_slug": "advanced-budget-travel-rich-experience",
+      "category_name": "Advanced Budget Travel Rich Experience"
+    },
+    {
+      "category_slug": "tips-budget-travel-rich-experience",
+      "category_name": "Budget Travel Rich Experience Tips"
+    },
+    {
+      "category_slug": "history-budget-travel-rich-experience",
+      "category_name": "Budget Travel Rich Experience History"
+    },
+    {
+      "category_slug": "trending-budget-travel-rich-experience",
+      "category_name": "Trending Budget Travel Rich Experience"
+    },
+    {
+      "category_slug": "tutorials-budget-travel-rich-experience",
+      "category_name": "Budget Travel Rich Experience Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "budget-travel-rich-experience",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Budget Travel Rich Experience Central",
+    "articles_per_row": 2
+  }
+}

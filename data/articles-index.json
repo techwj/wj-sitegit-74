@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-budget-travel-rich-experience",
+      "title": "The Ultimate Guide to Beginner Budget Travel Rich Experience",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.603791",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Budget Travel Rich Experience",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-budget-travel-rich-experience-everything-you-need-to-know",
+      "title": "Beginner Budget Travel Rich Experience: Everything You Need to Know",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.603894",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: Beginner Budget Travel Rich Experience: Everything You Need to Know",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-budget-travel-rich-experience",
+      "title": "Understanding Beginner Budget Travel Rich Experience",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.603931",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Understanding Beginner Budget Travel Rich Experience",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-budget-travel-rich-experience-tips-and-best-practices",
+      "title": "Beginner Budget Travel Rich Experience Tips and Best Practices",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.603962",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Beginner Budget Travel Rich Experience Tips and Best Practices",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-budget-travel-rich-experience",
+      "title": "The History of Beginner Budget Travel Rich Experience",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.603997",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: The History of Beginner Budget Travel Rich Experience",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-budget-travel-rich-experience-in-2026-current-trends",
+      "title": "Beginner Budget Travel Rich Experience in 2026: Current Trends",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.604027",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Beginner Budget Travel Rich Experience in 2026: Current Trends",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-budget-travel-rich-experience",
+      "title": "Future of Beginner Budget Travel Rich Experience",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.604057",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Future of Beginner Budget Travel Rich Experience",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-budget-travel-rich-experience",
+      "title": "Common Mistakes in Beginner Budget Travel Rich Experience",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.604136",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Common Mistakes in Beginner Budget Travel Rich Experience",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-budget-travel-rich-experience-for-beginners",
+      "title": "Beginner Budget Travel Rich Experience for Beginners",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.604185",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Beginner Budget Travel Rich Experience for Beginners",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-budget-travel-rich-experience-techniques",
+      "title": "Advanced Beginner Budget Travel Rich Experience Techniques",
+      "category": "beginner-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.604217",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Advanced Beginner Budget Travel Rich Experience Techniques",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-budget-travel-rich-experience",
+      "title": "The Ultimate Guide to Advanced Budget Travel Rich Experience",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605132",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Budget Travel Rich Experience",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-budget-travel-rich-experience-everything-you-need-to-know",
+      "title": "Advanced Budget Travel Rich Experience: Everything You Need to Know",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605167",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Advanced Budget Travel Rich Experience: Everything You Need to Know",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-budget-travel-rich-experience",
+      "title": "Understanding Advanced Budget Travel Rich Experience",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605203",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: Understanding Advanced Budget Travel Rich Experience",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-budget-travel-rich-experience-tips-and-best-practices",
+      "title": "Advanced Budget Travel Rich Experience Tips and Best Practices",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605235",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Advanced Budget Travel Rich Experience Tips and Best Practices",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-budget-travel-rich-experience",
+      "title": "The History of Advanced Budget Travel Rich Experience",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605305",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: The History of Advanced Budget Travel Rich Experience",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-budget-travel-rich-experience-in-2026-current-trends",
+      "title": "Advanced Budget Travel Rich Experience in 2026: Current Trends",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605349",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Advanced Budget Travel Rich Experience in 2026: Current Trends",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-budget-travel-rich-experience",
+      "title": "Future of Advanced Budget Travel Rich Experience",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605399",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Future of Advanced Budget Travel Rich Experience",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-budget-travel-rich-experience",
+      "title": "Common Mistakes in Advanced Budget Travel Rich Experience",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605430",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Common Mistakes in Advanced Budget Travel Rich Experience",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-budget-travel-rich-experience-for-beginners",
+      "title": "Advanced Budget Travel Rich Experience for Beginners",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605531",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Advanced Budget Travel Rich Experience for Beginners",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-budget-travel-rich-experience-techniques",
+      "title": "Advanced Advanced Budget Travel Rich Experience Techniques",
+      "category": "advanced-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605563",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Advanced Advanced Budget Travel Rich Experience Techniques",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-budget-travel-rich-experience-tips",
+      "title": "The Ultimate Guide to Budget Travel Rich Experience Tips",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605826",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: The Ultimate Guide to Budget Travel Rich Experience Tips",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 38,
+      "slug": "budget-travel-rich-experience-tips-everything-you-need-to-know",
+      "title": "Budget Travel Rich Experience Tips: Everything You Need to Know",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605855",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Budget Travel Rich Experience Tips: Everything You Need to Know",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-budget-travel-rich-experience-tips",
+      "title": "Understanding Budget Travel Rich Experience Tips",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605884",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: Understanding Budget Travel Rich Experience Tips",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 40,
+      "slug": "budget-travel-rich-experience-tips-tips-and-best-practices",
+      "title": "Budget Travel Rich Experience Tips Tips and Best Practices",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605914",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Budget Travel Rich Experience Tips Tips and Best Practices",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-budget-travel-rich-experience-tips",
+      "title": "The History of Budget Travel Rich Experience Tips",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605944",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: The History of Budget Travel Rich Experience Tips",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 42,
+      "slug": "budget-travel-rich-experience-tips-in-2026-current-trends",
+      "title": "Budget Travel Rich Experience Tips in 2026: Current Trends",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.605975",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Budget Travel Rich Experience Tips in 2026: Current Trends",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-budget-travel-rich-experience-tips",
+      "title": "Future of Budget Travel Rich Experience Tips",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606004",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: Future of Budget Travel Rich Experience Tips",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-budget-travel-rich-experience-tips",
+      "title": "Common Mistakes in Budget Travel Rich Experience Tips",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606032",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Common Mistakes in Budget Travel Rich Experience Tips",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 45,
+      "slug": "budget-travel-rich-experience-tips-for-beginners",
+      "title": "Budget Travel Rich Experience Tips for Beginners",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606070",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Budget Travel Rich Experience Tips for Beginners",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-budget-travel-rich-experience-tips-techniques",
+      "title": "Advanced Budget Travel Rich Experience Tips Techniques",
+      "category": "tips-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606111",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: Advanced Budget Travel Rich Experience Tips Techniques",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-budget-travel-rich-experience-history",
+      "title": "The Ultimate Guide to Budget Travel Rich Experience History",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606378",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: The Ultimate Guide to Budget Travel Rich Experience History",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 56,
+      "slug": "budget-travel-rich-experience-history-everything-you-need-to-know",
+      "title": "Budget Travel Rich Experience History: Everything You Need to Know",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606408",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Budget Travel Rich Experience History: Everything You Need to Know",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-budget-travel-rich-experience-history",
+      "title": "Understanding Budget Travel Rich Experience History",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606439",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: Understanding Budget Travel Rich Experience History",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 58,
+      "slug": "budget-travel-rich-experience-history-tips-and-best-practices",
+      "title": "Budget Travel Rich Experience History Tips and Best Practices",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606468",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: Budget Travel Rich Experience History Tips and Best Practices",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-budget-travel-rich-experience-history",
+      "title": "The History of Budget Travel Rich Experience History",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606498",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: The History of Budget Travel Rich Experience History",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 60,
+      "slug": "budget-travel-rich-experience-history-in-2026-current-trends",
+      "title": "Budget Travel Rich Experience History in 2026: Current Trends",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606527",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Budget Travel Rich Experience History in 2026: Current Trends",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-budget-travel-rich-experience-history",
+      "title": "Future of Budget Travel Rich Experience History",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606558",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Future of Budget Travel Rich Experience History",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-budget-travel-rich-experience-history",
+      "title": "Common Mistakes in Budget Travel Rich Experience History",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606587",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: Common Mistakes in Budget Travel Rich Experience History",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 63,
+      "slug": "budget-travel-rich-experience-history-for-beginners",
+      "title": "Budget Travel Rich Experience History for Beginners",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606616",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: Budget Travel Rich Experience History for Beginners",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-budget-travel-rich-experience-history-techniques",
+      "title": "Advanced Budget Travel Rich Experience History Techniques",
+      "category": "history-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606646",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: Advanced Budget Travel Rich Experience History Techniques",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-budget-travel-rich-experience",
+      "title": "The Ultimate Guide to Trending Budget Travel Rich Experience",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606917",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: The Ultimate Guide to Trending Budget Travel Rich Experience",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-budget-travel-rich-experience-everything-you-need-to-know",
+      "title": "Trending Budget Travel Rich Experience: Everything You Need to Know",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606947",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: Trending Budget Travel Rich Experience: Everything You Need to Know",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-budget-travel-rich-experience",
+      "title": "Understanding Trending Budget Travel Rich Experience",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.606978",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: Understanding Trending Budget Travel Rich Experience",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-budget-travel-rich-experience-tips-and-best-practices",
+      "title": "Trending Budget Travel Rich Experience Tips and Best Practices",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607007",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Trending Budget Travel Rich Experience Tips and Best Practices",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-budget-travel-rich-experience",
+      "title": "The History of Trending Budget Travel Rich Experience",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607045",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: The History of Trending Budget Travel Rich Experience",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-budget-travel-rich-experience-in-2026-current-trends",
+      "title": "Trending Budget Travel Rich Experience in 2026: Current Trends",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607075",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Trending Budget Travel Rich Experience in 2026: Current Trends",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-budget-travel-rich-experience",
+      "title": "Future of Trending Budget Travel Rich Experience",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607104",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Future of Trending Budget Travel Rich Experience",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-budget-travel-rich-experience",
+      "title": "Common Mistakes in Trending Budget Travel Rich Experience",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607133",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: Common Mistakes in Trending Budget Travel Rich Experience",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-budget-travel-rich-experience-for-beginners",
+      "title": "Trending Budget Travel Rich Experience for Beginners",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607163",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Trending Budget Travel Rich Experience for Beginners",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-budget-travel-rich-experience-techniques",
+      "title": "Advanced Trending Budget Travel Rich Experience Techniques",
+      "category": "trending-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607191",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Advanced Trending Budget Travel Rich Experience Techniques",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-budget-travel-rich-experience-tutorials",
+      "title": "The Ultimate Guide to Budget Travel Rich Experience Tutorials",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607621",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: The Ultimate Guide to Budget Travel Rich Experience Tutorials",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 92,
+      "slug": "budget-travel-rich-experience-tutorials-everything-you-need-to-know",
+      "title": "Budget Travel Rich Experience Tutorials: Everything You Need to Know",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607740",
+      "image": {
+        "id": "4f57c8849fc42ddb835d75623022d3829074676636ecd2f33198e7ae132af8fa",
+        "url": "https://picsum.photos/1025/467?random=277",
+        "alt": "Featured image for: Budget Travel Rich Experience Tutorials: Everything You Need to Know",
+        "width": 1025,
+        "height": 467
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-budget-travel-rich-experience-tutorials",
+      "title": "Understanding Budget Travel Rich Experience Tutorials",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607832",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Understanding Budget Travel Rich Experience Tutorials",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 94,
+      "slug": "budget-travel-rich-experience-tutorials-tips-and-best-practices",
+      "title": "Budget Travel Rich Experience Tutorials Tips and Best Practices",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607900",
+      "image": {
+        "id": "9a657c523383cd6b541f89255a3535f4c8ab541bb1ad3bc990fb95e3fcd50137",
+        "url": "https://picsum.photos/1092/487?random=929",
+        "alt": "Featured image for: Budget Travel Rich Experience Tutorials Tips and Best Practices",
+        "width": 1092,
+        "height": 487
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-budget-travel-rich-experience-tutorials",
+      "title": "The History of Budget Travel Rich Experience Tutorials",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.607966",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: The History of Budget Travel Rich Experience Tutorials",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 96,
+      "slug": "budget-travel-rich-experience-tutorials-in-2026-current-trends",
+      "title": "Budget Travel Rich Experience Tutorials in 2026: Current Trends",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.608030",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Budget Travel Rich Experience Tutorials in 2026: Current Trends",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-budget-travel-rich-experience-tutorials",
+      "title": "Future of Budget Travel Rich Experience Tutorials",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.608105",
+      "image": {
+        "id": "0393865de304465ad84d366246d82c13600767414e3f13e5ed5b113fb47de4d7",
+        "url": "https://picsum.photos/960/496?random=901",
+        "alt": "Featured image for: Future of Budget Travel Rich Experience Tutorials",
+        "width": 960,
+        "height": 496
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-budget-travel-rich-experience-tutorials",
+      "title": "Common Mistakes in Budget Travel Rich Experience Tutorials",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.608137",
+      "image": {
+        "id": "cced3ef1cc87851e75aca78c9a8a4dfc4cfc487fa0e1f6605850b2ab936a7ac3",
+        "url": "https://picsum.photos/1078/430?random=50",
+        "alt": "Featured image for: Common Mistakes in Budget Travel Rich Experience Tutorials",
+        "width": 1078,
+        "height": 430
+      }
+    },
+    {
+      "id": 99,
+      "slug": "budget-travel-rich-experience-tutorials-for-beginners",
+      "title": "Budget Travel Rich Experience Tutorials for Beginners",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.608166",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Budget Travel Rich Experience Tutorials for Beginners",
+        "width": 1039,
+        "height": 414
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-budget-travel-rich-experience-tutorials-techniques",
+      "title": "Advanced Budget Travel Rich Experience Tutorials Techniques",
+      "category": "tutorials-budget-travel-rich-experience",
+      "created_at": "2026-06-02T19:22:11.608195",
+      "image": {
+        "id": "6a8328fe8d6137bc0badf785927e7f8eee6981f0131ddab0376288ab5940aa19",
+        "url": "https://picsum.photos/1039/414?random=129",
+        "alt": "Featured image for: Advanced Budget Travel Rich Experience Tutorials Techniques",
+        "width": 1039,
+        "height": 414
+      }
+    }
+  ],
+  "categories": [
+    "beginner-budget-travel-rich-experience",
+    "advanced-budget-travel-rich-experience",
+    "tips-budget-travel-rich-experience",
+    "history-budget-travel-rich-experience",
+    "trending-budget-travel-rich-experience",
+    "tutorials-budget-travel-rich-experience"
+  ]
+}
